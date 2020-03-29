@@ -18,7 +18,9 @@
  
  The popular genres are Adventure, Science-Fiction, Action, Fantasy, Family. The movie must include 3 of these to get high profit.
  
- ![Genre-Total gross](images/Genre-Total Gross.png)
+
+ 
+ <images src="images/genre.png", width=200, height=200>
  
 
  ### 2) Hiring: 
