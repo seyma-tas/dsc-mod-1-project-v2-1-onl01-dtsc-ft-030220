@@ -2,14 +2,16 @@
  
  This project was created to answer the essential questions of a large business getting into the movie industry. These questions are:
  
-    1) Movie genres: What are the movie genres that make the most money?
-
-    2) Hiring the right people: How to hire a film crew to make the highest grossing movies?
-
-    3) Budget: What is the budget of the top performing movies?
-
-    4) Release: At what time of the year should the movie be released?
-    
+  1) What are the movie genres that make the most money?
+  
+  2) How to hire a film crew to make the highest grossing movies?
+  
+  3)  What are the budgets of top performing movies?
+  
+  At what time of the year should the movie be released?
+  
+  
+  
  
   ## Datasets
  
@@ -32,13 +34,13 @@
  
  Working with the right people will increase the success of the movies. Hire crew from high profit studios. Make them work in correlation. This is going to bring success.
  
- <img src="images/studios.png" >
+ <img src="images/studio.png" >
  
  ### 3) Budget:
  
  In the datasets there is a very strong correlation between the budget of a movie and its revenue. According to the graph high gross movies have high budgets. To gain more, spend more. A budget at around 200 million is going to make a good revenue.
- <img src="images/worldwide.png" width=500 >
- <img src="images/domestic.png" width=500 >
+ <img src="images/worldwide_month.png" width=500 >
+ <img src="images/domestic_month.png" width=500 >
  
  
  ### 4) Release:
